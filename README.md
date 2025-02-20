@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>
   Hello, my name is Salih. 👋 <br>
-  I am a game developer <br>
   </h1>
 </div>
